@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXTINF:1.254,
+https://raw.githubusercontent.com/anars/blank-audio/master/1-second-of-silence.mp3
+#EXT-X-ENDLIST
