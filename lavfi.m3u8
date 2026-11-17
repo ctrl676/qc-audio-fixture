@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXTINF:1.0,
+lavfi://sine=frequency=440:duration=1
+#EXT-X-ENDLIST
